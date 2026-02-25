@@ -122,3 +122,19 @@ footer {
         flex-direction: column;
     }
 }
+/* TOP NAVIGATION */
+.top-navigation {
+    margin-top: 25px;
+}
+
+.top-navigation a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+    transition: opacity 0.3s ease;
+}
+
+.top-navigation a:hover {
+    opacity: 0.8;
+}
